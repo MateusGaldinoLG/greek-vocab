@@ -1,0 +1,171 @@
+,word,lemma,english_translation,beta_code,parsing_abbreviation,chapter_number,chapter_name,title
+0,Υἱὸν,υἱός,"υἱός, υἱός, son",*ui(o\n,  masculine accusative singular,1,Aesop's Fables,The Father and the Son
+1,μονογενῆ,μονογενής,"μονογενής, only, single (child)",monogenh=," neuter nominative plural,  neuter vocative plural,  neuter accusative plural,  masculine accusative singular,   feminine accusative singular",1,Aesop's Fables,The Father and the Son
+2,δειλὸς,δειλός,"δειλός, δειλός, cowardly; miserable, wretched",deilo\s,  masculine nominative singular,1,Aesop's Fables,The Father and the Son
+3,εἶχε,ἔχω,"ἔχω, ἔχω, ἕξω or σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, -, have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.)",ei)=xe,  imperfect active indicative 3rd singular,1,Aesop's Fables,The Father and the Son
+4,πρεσβύτης,πρεσβύτης,"πρεσβύτης, age",presbu/ths,  masculine nominative singular,1,Aesop's Fables,The Father and the Son
+5,γενναῖον,γενναῖος,"γενναῖος, γενναῖος α ον, noble, fine (adjective)",gennai=on,"  masculine accusative singular,  feminine accusative singular,   neuter nominative singular,  neuter vocative singular,   neuter accusative singular",1,Aesop's Fables,The Father and the Son
+6,ἄλλως,ἄλλος,"ἄλλος, ἄλλος, ἄλλη, ἄλλον, another, other",a)/llws,"  masculine accusative plural (NCA),   adverb (cp ἄλλως)",1,Aesop's Fables,The Father and the Son
+7,καὶ,καί,"καί, καί, and, also, even",kai\,"  conjunction,   adverb",1,Aesop's Fables,The Father and the Son
+8,θέλοντα,ἐθέλω,"ἐθέλω, ἐθέλω, ἐθελήσω, ἠθέλησα, ἠθέληκα, ΧΧΧ, ΧΧΧ, be willing, wish",qe/lonta," present active participle neuter nominative plural,  present active participle neuter vocative plural,  present active participle neuter accusative plural,   present active participle masculine accusative singular",1,Aesop's Fables,The Father and the Son
+9,ηρεύειν.,ἐρεύθω,"ἐρεύθω, to make red, stain red",hreu/ein., imperfect middle-passive indicative 3rd singular,1,Aesop's Fables,The Father and the Son
+10,τοῦτον,οὗτος,"οὗτος, οὗτος, αὕτη, τοῦτο, this, that",tou=ton,  demonstrative pronoun masculine accusative singular,1,Aesop's Fables,The Father and the Son
+11,καθ',καθά,"καθά, according as, just as",kaq', adverb,1,Aesop's Fables,The Father and the Son
+12,ὕπνους,ὕπνος,"ὕπνος, ὕπνος, sleep",u(/pnous,  masculine accusative plural,1,Aesop's Fables,The Father and the Son
+13,ὑπὸ,ὑπό,"ὑπό, ὑπό, by (personal agent), under (+ gen); under, under the power of (+ dat); under (with motion), toward (of time) (+ acc)",u(po\,  preposition,1,Aesop's Fables,The Father and the Son
+14,λέοντος,λέων,"λέων, λέων, lion",le/ontos,  masculine genitive singular,1,Aesop's Fables,The Father and the Son
+15,ᾠήθη,οἴομαι,"οἴομαι, οἴομαι/οἶμαι, think, suppose, believe",w)|h/qh,  aorist passive indicative 3rd singular,1,Aesop's Fables,The Father and the Son
+16,θανόντα,ἀποθνῄσκω,"ἀποθνῄσκω, ἀποθνῄσκω, ἀποθανοῦμαι, ἀπέθανον, τέθνηκα, ΧΧΧ, ΧΧΧ, die",qano/nta," aorist active participle neuter nominative plural (cp θνῄσκω),  aorist active participle neuter vocative plural (cp θνῄσκω),  aorist active participle neuter accusative plural (cp θνῄσκω),   aorist active participle masculine accusative singular (cp θνῄσκω)",1,Aesop's Fables,The Father and the Son
+17,κεῖσθαι·,κεῖμαι,"κεῖμαι, κεῖμαι, κείσομαι, ΧΧΧ, ΧΧΧ, ΧΧΧ, ΧΧΧ, lie, be placed, be set",kei=sqai:,  present middle infinitive,1,Aesop's Fables,The Father and the Son
+18,καὶ,καί,"καί, καί, and, also, even",kai\,"  conjunction,   adverb",1,Aesop's Fables,The Father and the Son
+19,φοβούμενος,φοβέω,"φοβέω, φοβέομαι, φοβήσομαι, ΧΧΧ, ΧΧΧ, πεφόβημαι, ἐφοβήθην, fear, be afraid",fobou/menos,  present middle-passive participle masculine nominative singular,1,Aesop's Fables,The Father and the Son
+20,μήπως,μήπως,"μήπως, lest in any way, lest any how, lest perchance",mh/pws,  adverb,1,Aesop's Fables,The Father and the Son
+21,ὕπαρ,ὕπαρ,"ὕπαρ, a waking vision",u(/par,  neuter singular (indecl.),1,Aesop's Fables,The Father and the Son
+22,γένηται,γίγνομαι,"γίγνομαι, γίγνομαι, γενήσομαι, ἐγενόμην, γέγονα, γεγένημαι, ΧΧΧ, be born; become; happen",ge/nhtai,  aorist middle subjunctive 3rd singular,1,Aesop's Fables,The Father and the Son
+23,καὶ,καί,"καί, καί, and, also, even",kai\,"  conjunction,   adverb",1,Aesop's Fables,The Father and the Son
+24,τὸ,ὁ,"ὁ, ὁ, the [definite article]",to\,"  definite article neuter nominative singular,   definite article neuter accusative singular",1,Aesop's Fables,The Father and the Son
+25,φάσμ',φάσμα,"φάσμα, an apparition, phantom",fa/sm'," neuter nominative singular,  neuter vocative singular,   neuter accusative singular",1,Aesop's Fables,The Father and the Son
+26,"ἀληθεύσῃ,",ἀληθεύω,"ἀληθεύω, to speak truth","a)lhqeu/sh|,",  aorist active subjunctive 2nd singular,1,Aesop's Fables,The Father and the Son
+27,κάλλιστον,καλός,"καλός, καλός, καλή, καλόν, beautiful, noble, good",ka/lliston,"  masculine accusative singular superlative,   neuter nominative singular superlative,  neuter vocative singular superlative,   neuter accusative singular superlative",1,Aesop's Fables,The Father and the Son
+28,οἶκον,οἶκος,"οἶκος, οἶκος, house, dwelling place; household",oi)=kon,  masculine accusative singular,1,Aesop's Fables,The Father and the Son
+29,ἐξελέξατ',ἐκλέγω,"ἐκλέγω, to pick out; single out",e)cele/cat',  aorist middle indicative 3rd singular,1,Aesop's Fables,The Father and the Son
+30,"ἀνδρῶνα,",ἀνδρών,"ἀνδρών, the men’s apartment","a)ndrw=na,",  masculine accusative singular,1,Aesop's Fables,The Father and the Son
+31,"ὑψηλὸν,",ὑψηλός,"ὑψηλός, ὑψηλός, high, lofty","u(yhlo\n,","  masculine accusative singular,   neuter nominative singular,  neuter vocative singular,   neuter accusative singular",1,Aesop's Fables,The Father and the Son
+32,εὐδμητὸν,εὔδμητος,"εὔδμητος, well-built",eu)dmhto\n,"  masculine accusative singular,  feminine accusative singular,  neuter nominative singular,  neuter vocative singular,  neuter accusative singular",1,Aesop's Fables,The Father and the Son
+33,τε,τε,"τε, τε, and",te,"  particle,   conjunction",1,Aesop's Fables,The Father and the Son
+34,χἠλίου,χηλή,"χηλή, a horse’s hoof; breakwater, spur of a mountain",xh)li/ou," feminine nominative plural,  feminine vocative plural",1,Aesop's Fables,The Father and the Son
+35,"πλήρη,",πλήρης,"πλήρης, πλήρης, full, full of (+ gen.)","plh/rh,","  neuter nominative plural,  neuter vocative plural,  neuter accusative plural,  masculine nominative dual,  masculine vocative dual,  masculine accusative dual,  feminine nominative dual,  feminine vocative dual,  feminine accusative dual,  neuter nominative dual,  neuter vocative dual,  neuter accusative dual,   masculine accusative singular,   feminine accusative singular",1,Aesop's Fables,The Father and the Son
+36,κἀκεῖ,ἀκέομαι,"ἀκέομαι, to heal, cure",ka)kei=," future middle indicative 2nd singular,  present middle indicative 2nd singular",1,Aesop's Fables,The Father and the Son
+37,τὸν,ὁ,"ὁ, ὁ, the [definite article]",to\n,  definite article masculine accusative singular,1,Aesop's Fables,The Father and the Son
+38,υἱὸν,υἱός,"υἱός, υἱός, son",ui(o\n,  masculine accusative singular,1,Aesop's Fables,The Father and the Son
+39,παρεφύλασσε,παραφυλάσσω,"παραφυλάσσω, to watch beside, to guard closely, watch narrowly",parefu/lasse,  imperfect active indicative 3rd singular,1,Aesop's Fables,The Father and the Son
+40,συγκλείσας.,συγκλείω,"συγκλείω, to shut",sugklei/sas.," aorist active participle masculine nominative singular,  aorist active participle masculine vocative singular",1,Aesop's Fables,The Father and the Son
+41,χὤπως,ὅπως,"ὅπως, ὅπως, in order that",xw)/pws,"  conjunction,   adverb,   adverb",1,Aesop's Fables,The Father and the Son
+42,ἔχῃ,ἔχις,"ἔχις, an adder, viper",e)/xh|, masculine dative singular (NCA),1,Aesop's Fables,The Father and the Son
+43,τι,τις,"τις, τις, τι, someone, something; anyone, anything; some, any",ti,"  indefinite pronoun neuter nominative singular,   indefinite pronoun neuter vocative singular,   indefinite pronoun neuter accusative singular",1,Aesop's Fables,The Father and the Son
+44,βουκόλημα,βουκολέω,"βουκολέω, to tend cattle",bouko/lhma," aorist middle subjunctive 3rd singular (NCA),   future middle indicative 3rd singular",1,Aesop's Fables,The Father and the Son
+45,τῆς,ὁ,"ὁ, ὁ, the [definite article]",th=s,  definite article feminine genitive singular,1,Aesop's Fables,The Father and the Son
+46,λύπης,λύπη,"λύπη, λύπη, λύπης, ἡ, pain, grief",lu/phs,  feminine genitive singular,1,Aesop's Fables,The Father and the Son
+47,ἐνέθηκε,ἐντίθημι,"ἐντίθημι, ἐντίθημι, place in, put in (verb)",e)ne/qhke,  aorist active indicative 3rd singular,1,Aesop's Fables,The Father and the Son
+48,τοίχοις,τοῖχος,"τοῖχος, the wall of a house",toi/xois,  masculine dative plural,1,Aesop's Fables,The Father and the Son
+49,ποικίλας,ποικίλλω,"ποικίλλω, to work in various colours, to broider, work in embroidery",poiki/las,"  aorist active participle masculine nominative singular,  aorist active participle masculine vocative singular",1,Aesop's Fables,The Father and the Son
+50,γραφὰς,γραφή,"γραφή, γραφή, γραφῆς, ἡ, indictment",grafa\s,  feminine accusative plural,1,Aesop's Fables,The Father and the Son
+51,"ζώων,",ζήω,"ζήω, to live (LSJ ζῶ)","zw/wn,"," present active participle masculine vocative singular (cp ζῶ),   present active participle masculine nominative singular (cp ζῶ)",1,Aesop's Fables,The Father and the Son
+52,ἐν,ἐν,"ἐν, ἐν, in",e)n,"  preposition,   adverb (NCA)",1,Aesop's Fables,The Father and the Son
+53,οἷς,ὅς,"ὅς, ὅς, ἥ, ὅν, who, which",oi(=s,"  relative pronoun masculine dative plural,   relative pronoun neuter dative plural",1,Aesop's Fables,The Father and the Son
+54,ἅπασι,ἅπας,"ἅπας, ἅπᾱς, ἅπᾱσα, ἅπᾱν, all, quite all",a(/pasi,"  masculine dative plural,   neuter dative plural",1,Aesop's Fables,The Father and the Son
+55,καὶ,καί,"καί, καί, and, also, even",kai\,"  conjunction,   adverb",1,Aesop's Fables,The Father and the Son
+56,λέων,λέων,"λέων, λέων, lion",le/wn,  masculine nominative singular,1,Aesop's Fables,The Father and the Son
+57,ἐμορφώθη.,μορφόω,"μορφόω, to give form",e)morfw/qh., aorist active indicative 3rd singular (morph21),1,Aesop's Fables,The Father and the Son
+58,ὁρῶντα,ὁράω,"ὁράω, ὁράω, ὄψομαι, εἶδον, ἑόρᾱκα or ἑώρᾱκα, ἑώρᾱμαι or ὦμμαι, ὤφθην, see",o(rw=nta," present active participle neuter nominative plural,  present active participle neuter vocative plural,   present active participle neuter accusative plural,   present active participle masculine accusative singular",1,Aesop's Fables,The Father and the Son
+59,δ',ΑΒΓ,"ΑΒΓ, ABC and any other geometric figure",d',,1,Aesop's Fables,The Father and the Son
+60,αὐτὸν,αὐτός,"αὐτός, αὐτός, αὐτή, αὐτό, same (adj in attributive position); -self, -selves (in predicate position or alone in nom); him, her, it, them (pronoun in gen, dat, acc)",au)to\n,"  personal pronoun masculine accusative singular,   masculine accusative singular",1,Aesop's Fables,The Father and the Son
+61,μᾶλλον,μᾶλλον,"μᾶλλον, μᾶλλον, more, rather",ma=llon,  adverb comparative (cp μάλα),1,Aesop's Fables,The Father and the Son
+62,εἶχεν,ἔχω,"ἔχω, ἔχω, ἕξω or σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, -, have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.)",ei)=xen,  imperfect active indicative 3rd singular,1,Aesop's Fables,The Father and the Son
+63,ἡ,ὁ,"ὁ, ὁ, the [definite article]",h(,  definite article feminine nominative singular,1,Aesop's Fables,The Father and the Son
+64,λύπη,λύπη,"λύπη, λύπη, λύπης, ἡ, pain, grief",lu/ph,"  feminine nominative singular,  feminine vocative singular",1,Aesop's Fables,The Father and the Son
+65,καὶ,καί,"καί, καί, and, also, even",kai\,"  conjunction,   adverb",1,Aesop's Fables,The Father and the Son
+66,δή,δή,"δή, δή, in fact, of course",dh/,  particle,1,Aesop's Fables,The Father and the Son
+67,ποθ',ποθι,"ποθι, anywhere",poq', adverb (cp πόθι),1,Aesop's Fables,The Father and the Son
+68,ἑστὼς,ἵστημι,"ἵστημι, ἵστημι, στήσω, ἔστησα (trans.) or ἔστην (intrans.), ἕστηκα (intrans.), ἕσταμαι, ἐστάθην, make stand; (mid. or intrans.) stand",e(stw\s,"  perfect active participle masculine nominative singular,  perfect active participle masculine vocative singular",1,Aesop's Fables,The Father and the Son
+69,τοῦ,ὁ,"ὁ, ὁ, the [definite article]",tou=,"  definite article masculine genitive singular,   definite article neuter genitive singular",1,Aesop's Fables,The Father and the Son
+70,λέοντος,λέων,"λέων, λέων, lion",le/ontos,  masculine genitive singular,1,Aesop's Fables,The Father and the Son
+71,οὐ,οὐ,"οὐ, οὐ, οὐκ, οὐχ, not",ou),  adverb,1,Aesop's Fables,The Father and the Son
+72,πόρρω,πρόσω,"πρόσω, forwards, onwards, further; far off (from)",po/rrw,  adverb,1,Aesop's Fables,The Father and the Son
+73,"""κάκιστε",κακός,"κακός, κακός, κακή, κακόν, bad, evil","""ka/kiste",  masculine vocative singular superlative,1,Aesop's Fables,The Father and the Son
+74,"θηρῶν""",θήρ,"θήρ, θήρ, beast of prey, wild animal","qhrw=n""",  masculine genitive plural,1,Aesop's Fables,The Father and the Son
+75,εἶπεν,λέγω,"λέγω, λέγω, ἐρέω or λέξω, εἶπον or ἔλεξα, εἴρηκα, εἴρημαι or λέλεγμαι, ἐλέχθην or ἐρρήθην, say, speak",ei)=pen,  aorist active indicative 3rd singular,1,Aesop's Fables,The Father and the Son
+76,"""ὡς",ὡς,"ὡς, ὡς, in order that","""w(s","  conjunction,   adverb,   adverb,   preposition",1,Aesop's Fables,The Father and the Son
+77,σὺ,σύ,"σύ, σύ, you (sg.)",su\,  personal pronoun nominative singular,1,Aesop's Fables,The Father and the Son
+78,τὸν,ὁ,"ὁ, ὁ, the [definite article]",to\n,  definite article masculine accusative singular,1,Aesop's Fables,The Father and the Son
+79,ψεύστην,ψεύστης,"ψεύστης, a liar, cheat",yeu/sthn,  masculine accusative singular,1,Aesop's Fables,The Father and the Son
+80,ὄνειρον,ὄνειρος,"ὄνειρος, ὄνειρος, ὁ, dream (noun)",o)/neiron,"  masculine accusative singular,   neuter nominative singular,  neuter vocative singular,   neuter accusative singular",1,Aesop's Fables,The Father and the Son
+81,ἄλλως,ἄλλος,"ἄλλος, ἄλλος, ἄλλη, ἄλλον, another, other",a)/llws,"  masculine accusative plural (NCA),   adverb (cp ἄλλως)",1,Aesop's Fables,The Father and the Son
+82,ὄμμασιν,ὄμμα,"ὄμμα, the eye",o)/mmasin,  neuter dative plural,1,Aesop's Fables,The Father and the Son
+83,πατρὸς,πατήρ,"πατήρ, πατήρ, πατρός, ὁ, father",patro\s,  masculine genitive singular,1,Aesop's Fables,The Father and the Son
+84,δείξας,δείκνυμι,"δείκνυμι, δείκνῡμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην, show",dei/cas,"  aorist active participle masculine nominative singular,  aorist active participle masculine vocative singular",1,Aesop's Fables,The Father and the Son
+85,ἔχεις,ἔχις,"ἔχις, an adder, viper",e)/xeis," masculine nominative plural,  masculine vocative plural,   masculine accusative plural",1,Aesop's Fables,The Father and the Son
+86,με,ἐγώ,"ἐγώ, ἐγώ, I",me,  personal pronoun accusative singular,1,Aesop's Fables,The Father and the Son
+87,φρουρῇ,φρουρά,"φρουρά, a looking out, watch, guard",frourh=|, feminine dative singular,1,Aesop's Fables,The Father and the Son
+88,περιβαλὼν,περιβάλλω,"περιβάλλω, to throw round",peribalw\n,"  aorist active participle masculine nominative singular,  aorist active participle masculine vocative singular",1,Aesop's Fables,The Father and the Son
+89,γυναικείῃ.,γυναικεῖος,"γυναικεῖος, of or belonging to women",gunaikei/h|., feminine accusative singular,1,Aesop's Fables,The Father and the Son
+90,τί,τίς,"τίς, τίς, τί, who?, which?, what?",ti/,"  interrogative pronoun neuter nominative singular,  interrogative pronoun neuter vocative singular,   interrogative pronoun neuter accusative singular",1,Aesop's Fables,The Father and the Son
+91,δὴ,δή,"δή, δή, in fact, of course",dh\,  particle,1,Aesop's Fables,The Father and the Son
+92,'πὶ,πίστις,"πίστις, πίστις, trust, faith; assurance, pledge",'pi\," feminine nominative plural,  feminine vocative plural,  feminine accusative plural",1,Aesop's Fables,The Father and the Son
+93,σοὶ,σός,"σός, σός, σή, σόν, your; (as a substantive) yours",soi\,"  possessive pronoun masculine nominative plural,  possessive pronoun masculine vocative plural",1,Aesop's Fables,The Father and the Son
+94,λόγοισιν,λόγος,"λόγος, λόγος, λόγου, ὁ, word, speech, story",lo/goisin,  masculine dative plural,1,Aesop's Fables,The Father and the Son
+95,εἶμι,εἶμι,"εἶμι, εἶμι, -, -, -, -, -, go, come",ei)=mi,  present active indicative 1st singular,1,Aesop's Fables,The Father and the Son
+96,κοὐκ,οὐ,"οὐ, οὐ, οὐκ, οὐχ, not",kou)k,  adverb (καὶ οὐκ),1,Aesop's Fables,The Father and the Son
+97,ἔργον,ἔργον,"ἔργον, ἔργον, ἔργου, τό, work, deed",e)/rgon,"  neuter nominative singular,  neuter vocative singular,   neuter accusative singular",1,Aesop's Fables,The Father and the Son
+98,ποιῶ,ποιέω,"ποιέω, ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην, make, do",poiw=,"  present active subjunctive 1st singular,   present active indicative 1st singular",1,Aesop's Fables,The Father and the Son
+99,"βίαιον;""",βίαιος,"βίαιος, forcible, violent","bi/aion;""","  masculine accusative singular,  feminine accusative singular,  neuter nominative singular,  neuter vocative singular,   neuter accusative singular",1,Aesop's Fables,The Father and the Son
+100,τῷ,ὁ,"ὁ, ὁ, the [definite article]",tw=|,"  definite article masculine dative singular,   definite article neuter dative singular",1,Aesop's Fables,The Father and the Son
+101,δὲ,δέ,"δέ, δέ, ...on the other hand",de\,  particle,1,Aesop's Fables,The Father and the Son
+102,φρουρίου,φρούριον,"φρούριον, a watch-post, garrisoned fort, citadel",frouri/ou,  neuter genitive singular,1,Aesop's Fables,The Father and the Son
+103,τοίχῳ,τοῖχος,"τοῖχος, the wall of a house",toi/xw|,  masculine dative singular,1,Aesop's Fables,The Father and the Son
+104,ἐπέβαλε,ἐπιβάλλω,"ἐπιβάλλω, to throw",e)pe/bale, aorist active indicative 3rd singular,1,Aesop's Fables,The Father and the Son
+105,χεῖρας,χείρ,"χείρ, χείρ, χειρός, ἡ (dat pl. χερσί[ν]), hand",xei=ras,  feminine accusative plural,1,Aesop's Fables,The Father and the Son
+106,τὸν,ὁ,"ὁ, ὁ, the [definite article]",to\n,  definite article masculine accusative singular,1,Aesop's Fables,The Father and the Son
+107,λέοντα,λέων,"λέων, λέων, lion",le/onta,  masculine accusative singular,1,Aesop's Fables,The Father and the Son
+108,"τυφλώσων,",τυφλόω,"τυφλόω, to blind, make blind","tuflw/swn,"," aorist active participle neuter nominative plural,  aorist active participle neuter vocative plural,  aorist active participle neuter accusative plural,  aorist active participle masculine accusative singular",1,Aesop's Fables,The Father and the Son
+109,σκόλοψ,σκόλοψ,"σκόλοψ, anything pointed",sko/loy," masculine nominative singular,  masculine vocative singular",1,Aesop's Fables,The Father and the Son
+110,ἀποσχισθείς,ἀποσχίζω,"ἀποσχίζω, to split",a)posxisqei/s, aorist passive participle feminine genitive singular,1,Aesop's Fables,The Father and the Son
+111,δὲ,δέ,"δέ, δέ, ...on the other hand",de\,  particle,1,Aesop's Fables,The Father and the Son
+112,τοῦ,ὁ,"ὁ, ὁ, the [definite article]",tou=,"  definite article masculine genitive singular,   definite article neuter genitive singular",1,Aesop's Fables,The Father and the Son
+113,ξύλου,ξύλον,"ξύλον, wood",cu/lou,  neuter genitive singular,1,Aesop's Fables,The Father and the Son
+114,τούτῳ,οὗτος,"οὗτος, οὗτος, αὕτη, τοῦτο, this, that",tou/tw|,"  demonstrative pronoun masculine dative singular,   demonstrative pronoun neuter dative singular",1,Aesop's Fables,The Father and the Son
+115,ἔδυν',δύω,"δύω, δύω/δύνω, (intrans. and 2nd aor.) enter; get into (clothes/armor); sink into the sea, set (of sun/stars); (trans./causal and 1st aor.) cause to enter or sink (more commonly in compounds)",e)/dun',"  aorist active indicative 3rd plural,  aorist active indicative 1st singular",1,Aesop's Fables,The Father and the Son
+116,ὑπ',ὑποτίτθιος,"ὑποτίτθιος, under the breast",u(p',"  masculine accusative singular,  feminine accusative singular,  neuter nominative singular,  neuter vocative singular,  neuter accusative singular",1,Aesop's Fables,The Father and the Son
+117,"ὄνυχα,",ὄνυξ,"ὄνυξ, talons, claws, nails","o)/nuxa,",  masculine accusative singular,1,Aesop's Fables,The Father and the Son
+118,χὠ,ὁ,"ὁ, ὁ, the [definite article]",xw),  definite article masculine nominative singular (καὶ ὁ),1,Aesop's Fables,The Father and the Son
+119,πατὴρ,πατήρ,"πατήρ, πατήρ, πατρός, ὁ, father",path\r,  masculine nominative singular,1,Aesop's Fables,The Father and the Son
+120,καθαιμώδους,καθαιμακτός,"καθαιμακτός, bloodstained, bloody",kaqaimw/dous,"  masculine accusative singular,  feminine accusative singular,  neuter nominative singular,  neuter vocative singular,  neuter accusative singular",1,Aesop's Fables,The Father and the Son
+121,φλογώσεως,φλόγωσις,"φλόγωσις, burning heat, inflammation",flogw/sews, feminine genitive singular,1,Aesop's Fables,The Father and the Son
+122,τὰς,ὁ,"ὁ, ὁ, the [definite article]",ta\s,  definite article feminine accusative plural,1,Aesop's Fables,The Father and the Son
+123,σάρκας,σάρξ,"σάρξ, flesh",sa/rkas,  feminine accusative plural,1,Aesop's Fables,The Father and the Son
+124,εὐθὺς,εὐθύς,"εὐθύς, εὐθύς, immediately, forthwith",eu)qu\s,"  masculine nominative singular,   adverb",1,Aesop's Fables,The Father and the Son
+125,εἰσδύσης,εἴσδυσις,"εἴσδυσις, entrance",ei)sdu/shs, feminine nominative singular,1,Aesop's Fables,The Father and the Son
+126,ἅπαντα,ἅπας,"ἅπας, ἅπᾱς, ἅπᾱσα, ἅπᾱν, all, quite all",a(/panta,"  neuter nominative plural,  neuter vocative plural,   neuter accusative plural,   masculine accusative singular",1,Aesop's Fables,The Father and the Son
+127,ποιῶν,ποιέω,"ποιέω, ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην, make, do",poiw=n," present active participle masculine vocative singular,   present active participle masculine nominative singular",1,Aesop's Fables,The Father and the Son
+128,ἤνυς',ἀνύω,"ἀνύω, to effect, achieve, accomplish, complete",h)/nus',  imperfect active indicative 3rd singular,1,Aesop's Fables,The Father and the Son
+129,οὐδὲν,οὐδείς,"οὐδείς, οὐδείς, οὐδεμία, οὐδέν, no one, nothing",ou)de\n,"  neuter nominative singular,  neuter vocative singular,   neuter accusative singular",1,Aesop's Fables,The Father and the Son
+130,ὁ,ὁ,"ὁ, ὁ, the [definite article]",o(,  definite article masculine nominative singular,1,Aesop's Fables,The Father and the Son
+131,τλήμων·,τλήμων,"τλήμων, suffering, enduring, patient, stout-hearted",tlh/mwn:,"  masculine nominative singular,   feminine nominative singular",1,Aesop's Fables,The Father and the Son
+132,θέρμη,θέρμη,"θέρμη, heat, feverish heat",qe/rmh,  feminine genitive singular,1,Aesop's Fables,The Father and the Son
+133,δ',ΑΒΓ,"ΑΒΓ, ABC and any other geometric figure",d',,1,Aesop's Fables,The Father and the Son
+134,ἐπ',ἐπάρχω,"ἐπάρχω, rule over, rule besides; to be governor of; mid. pour first drops, serve",e)p',  present active participle masculine accusative plural,1,Aesop's Fables,The Father and the Son
+135,αὐτοῖς,αὐτός,"αὐτός, αὐτός, αὐτή, αὐτό, same (adj in attributive position); -self, -selves (in predicate position or alone in nom); him, her, it, them (pronoun in gen, dat, acc)",au)toi=s,"  personal pronoun neuter dative plural,   personal pronoun masculine dative plural,   neuter dative plural,   masculine dative plural",1,Aesop's Fables,The Father and the Son
+136,υἱὸν,υἱός,"υἱός, υἱός, son",ui(o\n,  masculine accusative singular,1,Aesop's Fables,The Father and the Son
+137,ἄχρι,ἄχρι,"ἄχρι, ἄχρι/ἄχρι οὗ, until; (also adv. or prep. + gen.) as far as, up to",a)/xri,"  adverb,   preposition,   conjunction",1,Aesop's Fables,The Father and the Son
+138,βουβώνων,βουβών,"βουβών, the groin",boubw/nwn, masculine genitive plural,1,Aesop's Fables,The Father and the Son
+139,ἀνῆψεν,ἀνάπτω,"ἀνάπτω, to make fast on",a)nh=yen,  aorist active indicative 3rd singular,1,Aesop's Fables,The Father and the Son
+140,ὅστε,ὅστε,"ὅστε, who, which",o(/ste,"  relative pronoun masculine nominative singular,  relative pronoun masculine vocative singular",1,Aesop's Fables,The Father and the Son
+141,τὸν,ὁ,"ὁ, ὁ, the [definite article]",to\n,  definite article masculine accusative singular,1,Aesop's Fables,The Father and the Son
+142,βίον,βίος,"βίος, βίος, βίου, ὁ, life, means of living",bi/on,  masculine accusative singular,1,Aesop's Fables,The Father and the Son
+143,τελευτῆσαι.,τελευτάω,"τελευτάω, τελευτάω, τελευτήσω, ἐτελεύτησα, τετελεύτηκα, τετελεύτημαι, ἐτελευτήθην, finish, die",teleuth=sai.,  aorist active infinitive,1,Aesop's Fables,The Father and the Son
+144,ὁ,ὁ,"ὁ, ὁ, the [definite article]",o(,  definite article masculine nominative singular,1,Aesop's Fables,The Father and the Son
+145,πρέσβυς,πρέσβυς,"πρέσβυς, πρέσβυς, old man; elder; ambassador (plural rare except in this last sense)",pre/sbus,  masculine nominative singular,1,Aesop's Fables,The Father and the Son
+146,οὕτως,οὕτως,"οὕτως, οὕτω, οὕτως, in this way, so, thus",ou(/tws,  adverb,1,Aesop's Fables,The Father and the Son
+147,οὐκ,οὐ,"οὐ, οὐ, οὐκ, οὐχ, not",ou)k,  adverb,1,Aesop's Fables,The Father and the Son
+148,ἔσωσε,σῴζω,"σῴζω, σῴζω, σώσω, ἔσωσα, σέσωκα, σέσωσμαι or σέσωμαι, ἐσώθην, save",e)/swse,  aorist active indicative 3rd singular,1,Aesop's Fables,The Father and the Son
+149,τὸν,ὁ,"ὁ, ὁ, the [definite article]",to\n,  definite article masculine accusative singular,1,Aesop's Fables,The Father and the Son
+150,παῖδα,παῖς,"παῖς, παῖς, παιδός, ὁ or ἡ, child",pai=da,  common accusative singular,1,Aesop's Fables,The Father and the Son
+151,μέλλοντα,μέλλω,"μέλλω, μέλλω, μελλήσω, ἐμέλλησα, ΧΧΧ, ΧΧΧ, ΧΧΧ, be about to, be likely to (+ future infin.); delay",me/llonta,"  present active participle neuter nominative plural,  present active participle neuter vocative plural,   present active participle neuter accusative plural,   present active participle masculine accusative singular",1,Aesop's Fables,The Father and the Son
+152,θνῄσκειν,ἀποθνῄσκω,"ἀποθνῄσκω, ἀποθνῄσκω, ἀποθανοῦμαι, ἀπέθανον, τέθνηκα, ΧΧΧ, ΧΧΧ, die",qnh/|skein,  present active infinitive (cp θνῄσκω),1,Aesop's Fables,The Father and the Son
+153,ὑπὸ,ὑπό,"ὑπό, ὑπό, by (personal agent), under (+ gen); under, under the power of (+ dat); under (with motion), toward (of time) (+ acc)",u(po\,  preposition,1,Aesop's Fables,The Father and the Son
+154,λέοντος,λέων,"λέων, λέων, lion",le/ontos,  masculine genitive singular,1,Aesop's Fables,The Father and the Son
+155,ἀψύχου.,ἄψυχος,"ἄψυχος, lifeless, inanimate",a)yu/xou.," masculine genitive singular,  feminine genitive singular,  neuter genitive singular",1,Aesop's Fables,The Father and the Son
+156,Ἅ,ὁ,"ὁ, ὁ, the [definite article]",*(/a,  definite article feminine nominative singular,1,Aesop's Fables,The Father and the Son
+157,σοι,σύ,"σύ, σύ, you (sg.)",soi,  personal pronoun dative singular,1,Aesop's Fables,The Father and the Son
+158,πέπρωται,πορεῖν,"πορεῖν, have offered, given",pe/prwtai,  perfect middle-passive indicative 3rd singular,1,Aesop's Fables,The Father and the Son
+159,ταῦτα,οὗτος,"οὗτος, οὗτος, αὕτη, τοῦτο, this, that",tau=ta,"  demonstrative pronoun neuter nominative plural,  demonstrative pronoun neuter vocative plural,   demonstrative pronoun neuter accusative plural",1,Aesop's Fables,The Father and the Son
+160,τλῆθι,τλάω,"τλάω, to take upon oneself, to bear, suffer, undergo",tlh=qi,  aorist active imperative 2nd singular,1,Aesop's Fables,The Father and the Son
+161,γενναίως,γενναῖος,"γενναῖος, γενναῖος α ον, noble, fine (adjective)",gennai/ws,"  adverb,  masculine accusative plural (NCA),  feminine accusative plural (NCA)",1,Aesop's Fables,The Father and the Son
+162,καὶ,καί,"καί, καί, and, also, even",kai\,"  conjunction,   adverb",1,Aesop's Fables,The Father and the Son
+163,μὴ,μή,"μή, μή, not",mh\,"  conjunction,   adverb",1,Aesop's Fables,The Father and the Son
+164,σοφίζου·,σοφίζω,"σοφίζω, to make wise, instruct",sofi/zou:, present middle-passive imperative 2nd singular (morph21),1,Aesop's Fables,The Father and the Son
+165,τὸ,ὁ,"ὁ, ὁ, the [definite article]",to\,"  definite article neuter nominative singular,   definite article neuter accusative singular",1,Aesop's Fables,The Father and the Son
+166,χρεὼν,χρεών,"χρεών, necessity; it is necessary",xrew\n,  neuter singular,1,Aesop's Fables,The Father and the Son
+167,γὰρ,γάρ,"γάρ, γάρ, for (explanatory)",ga\r,  particle,1,Aesop's Fables,The Father and the Son
+168,οὐ,οὐ,"οὐ, οὐ, οὐκ, οὐχ, not",ou),  adverb,1,Aesop's Fables,The Father and the Son
+169,φεύξῃ.,φεύγω,"φεύγω, φεύγω, φεύξομαι, ἔφυγον, πέφευγα, ΧΧΧ, ΧΧΧ, flee; be in exile; be a defendant",feu/ch|.,  future middle indicative 2nd singular,1,Aesop's Fables,The Father and the Son

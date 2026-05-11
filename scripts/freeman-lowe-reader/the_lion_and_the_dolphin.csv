@@ -1,0 +1,104 @@
+,word,lemma,english_translation,beta_code,parsing_abbreviation,chapter_number,chapter_name,title
+0,Λέων,Λέων,"Λέων, Leon",*le/wn,  Proper-name noun masculine nominative singular,1,Aesop's Fables,The Lion and the Dolphin
+1,ἐπί,ἐπί,"ἐπί, ἐπί, on (+ gen); on, pertaining to, on condition that (+ dat); onto, over, against, for (purpose) (+ acc)",e)pi/,"  preposition,  adverb",1,Aesop's Fables,The Lion and the Dolphin
+2,τινι,τις,"τις, τις, τι, someone, something; anyone, anything; some, any",tini,"  indefinite pronoun common dative singular,   indefinite pronoun neuter dative singular",1,Aesop's Fables,The Lion and the Dolphin
+3,αἰγιαλῷ,αἰγιαλός,"αἰγιαλός, the sea-shore, beach, strand",ai)gialw=|,  masculine dative singular,1,Aesop's Fables,The Lion and the Dolphin
+4,"πλαζόμενος,",πλάζω,"πλάζω, to make to wander","plazo/menos,",  present middle-passive participle masculine nominative singular,1,Aesop's Fables,The Lion and the Dolphin
+5,ὡς,ὡς,"ὡς, ὡς, in order that",w(s,"  conjunction,   adverb,   adverb,   preposition",1,Aesop's Fables,The Lion and the Dolphin
+6,ἐθεάσατο,θεάομαι,"θεάομαι, θεάομαι, observe, watch (verb); θεάομαι, watch, gaze at (verb) (3b (= 2dG))",e)qea/sato,  aorist middle indicative 3rd singular,1,Aesop's Fables,The Lion and the Dolphin
+7,δελφῖνα,δελφίς,"δελφίς, the dolphin",delfi=na,  masculine accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+8,"παρακύψαντα,",παρακύπτω,"παρακύπτω, to stoop sideways","paraku/yanta,"," aorist active participle neuter accusative plural (Luc22),  aorist active participle neuter nominative plural (Luc22),  aorist active participle neuter vocative plural (Luc22),  aorist active participle masculine accusative singular (Luc22)",1,Aesop's Fables,The Lion and the Dolphin
+9,[ὡς],ὡς,"ὡς, ὡς, in order that",[w(s],"  conjunction,   adverb,   adverb,   preposition",1,Aesop's Fables,The Lion and the Dolphin
+10,ἐπὶ,ἐπί,"ἐπί, ἐπί, on (+ gen); on, pertaining to, on condition that (+ dat); onto, over, against, for (purpose) (+ acc)",e)pi\,"  preposition,   adverb (e.g., tmesis)",1,Aesop's Fables,The Lion and the Dolphin
+11,συμμαχίαν,συμμαχία,"συμμαχία, an alliance offensive and defensive",summaxi/an,  feminine accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+12,τοῦτον,οὗτος,"οὗτος, οὗτος, αὕτη, τοῦτο, this, that",tou=ton,  demonstrative pronoun masculine accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+13,παρεκάλεσε,παρακαλέω,"παρακαλέω, to call to",pareka/lese,  aorist active indicative 3rd singular,1,Aesop's Fables,The Lion and the Dolphin
+14,λέγων,λέγω,"λέγω, λέγω, ἐρέω or λέξω, εἶπον or ἔλεξα, εἴρηκα, εἴρημαι or λέλεγμαι, ἐλέχθην or ἐρρήθην, say, speak",le/gwn,"  present active participle masculine vocative singular,   present active participle masculine nominative singular",1,Aesop's Fables,The Lion and the Dolphin
+15,ὅτι,ὅστις,"ὅστις, ὅστις, ἥτις, ὅτι, (indefinite relative) whoever, whatever; (indirect interrogative) who?, what?",o(/ti,"  relative pronoun neuter nominative singular,   relative pronoun neuter accusative singular,   interrogative pronoun neuter nominative singular,   interrogative pronoun neuter accusative singular",1,Aesop's Fables,The Lion and the Dolphin
+16,ἁρμόττει,ἁρμόζω,"ἁρμόζω, to fit together, join",a(rmo/ttei," present middle-passive indicative 2nd singular,   present active indicative 3rd singular",1,Aesop's Fables,The Lion and the Dolphin
+17,μάλιστα,μάλιστα,"μάλιστα, μάλιστα (adv.), most",ma/lista,  adverb superlative (cp μάλα),1,Aesop's Fables,The Lion and the Dolphin
+18,φίλους,φίλος,"φίλος, φίλος, φίλου, ὁ, friend",fi/lous,  masculine accusative plural,1,Aesop's Fables,The Lion and the Dolphin
+19,αὐτοὺς,αὐτός,"αὐτός, αὐτός, αὐτή, αὐτό, same (adj in attributive position); -self, -selves (in predicate position or alone in nom); him, her, it, them (pronoun in gen, dat, acc)",au)tou\s,"  personal pronoun masculine accusative plural,   masculine accusative plural",1,Aesop's Fables,The Lion and the Dolphin
+20,καὶ,καί,"καί, καί, and, also, even",kai\,"  conjunction,   adverb",1,Aesop's Fables,The Lion and the Dolphin
+21,βοηθοὺς,βοηθός,"βοηθός, assisting, auxiliary",bohqou\s,"  masculine accusative plural (cp βοηθόος),   feminine accusative plural (cp βοηθόος)",1,Aesop's Fables,The Lion and the Dolphin
+22,γενέσθαι·,γίγνομαι,"γίγνομαι, γίγνομαι, γενήσομαι, ἐγενόμην, γέγονα, γεγένημαι, ΧΧΧ, be born; become; happen",gene/sqai:,  aorist middle infinitive,1,Aesop's Fables,The Lion and the Dolphin
+23,ὁ,ὁ,"ὁ, ὁ, the [definite article]",o(,  definite article masculine nominative singular,1,Aesop's Fables,The Lion and the Dolphin
+24,μὲν,μέν,"μέν, μέν, on the one hand..",me\n,  particle,1,Aesop's Fables,The Lion and the Dolphin
+25,γὰρ,γάρ,"γάρ, γάρ, for (explanatory)",ga\r,  particle,1,Aesop's Fables,The Lion and the Dolphin
+26,τῶν,ὁ,"ὁ, ὁ, the [definite article]",tw=n,"  definite article feminine genitive plural,   definite article masculine genitive plural,   definite article neuter genitive plural",1,Aesop's Fables,The Lion and the Dolphin
+27,θαλαττίων,θαλάσσιος,"θαλάσσιος, of, in, on, from the sea",qalatti/wn," feminine genitive plural,  masculine genitive plural,  neuter genitive plural",1,Aesop's Fables,The Lion and the Dolphin
+28,"ζώων,",ζήω,"ζήω, to live (LSJ ζῶ)","zw/wn,"," present active participle masculine vocative singular (cp ζῶ),   present active participle masculine nominative singular (cp ζῶ)",1,Aesop's Fables,The Lion and the Dolphin
+29,αὐτὸς,αὐτός,"αὐτός, αὐτός, αὐτή, αὐτό, same (adj in attributive position); -self, -selves (in predicate position or alone in nom); him, her, it, them (pronoun in gen, dat, acc)",au)to\s,"  personal pronoun masculine nominative singular,   masculine nominative singular",1,Aesop's Fables,The Lion and the Dolphin
+30,δὲ,δέ,"δέ, δέ, ...on the other hand",de\,  particle,1,Aesop's Fables,The Lion and the Dolphin
+31,τῶν,ὁ,"ὁ, ὁ, the [definite article]",tw=n,"  definite article feminine genitive plural,   definite article masculine genitive plural,   definite article neuter genitive plural",1,Aesop's Fables,The Lion and the Dolphin
+32,χερσαίων,χερσαῖος,"χερσαῖος, on or of dry land",xersai/wn," feminine genitive plural,  masculine genitive plural,  neuter genitive plural",1,Aesop's Fables,The Lion and the Dolphin
+33,βασιλεύει.,βασιλεύω,"βασιλεύω, βασιλεύω, be king; (inceptive aor.) became king",basileu/ei.," present middle-passive indicative 2nd singular,   present active indicative 3rd singular",1,Aesop's Fables,The Lion and the Dolphin
+34,Τοῦ,ὁ,"ὁ, ὁ, the [definite article]",*tou=,"  definite article masculine genitive singular,  definite article neuter genitive singular",1,Aesop's Fables,The Lion and the Dolphin
+35,δὲ,δέ,"δέ, δέ, ...on the other hand",de\,  particle,1,Aesop's Fables,The Lion and the Dolphin
+36,ἀσμένως,ἄσμενος,"ἄσμενος, well-pleased, glad",a)sme/nws,  adverb,1,Aesop's Fables,The Lion and the Dolphin
+37,"ἐπινεύσαντος,",ἐπινεύω,"ἐπινεύω, to nod","e)pineu/santos,"," aorist active participle masculine genitive singular,  aorist active participle neuter genitive singular",1,Aesop's Fables,The Lion and the Dolphin
+38,ὁ,ὁ,"ὁ, ὁ, the [definite article]",o(,  definite article masculine nominative singular,1,Aesop's Fables,The Lion and the Dolphin
+39,λέων,λέων,"λέων, λέων, lion",le/wn,  masculine nominative singular,1,Aesop's Fables,The Lion and the Dolphin
+40,ἐπὶ,ἐπί,"ἐπί, ἐπί, on (+ gen); on, pertaining to, on condition that (+ dat); onto, over, against, for (purpose) (+ acc)",e)pi\,"  preposition,   adverb (e.g., tmesis)",1,Aesop's Fables,The Lion and the Dolphin
+41,πολὺν,πολύς,"πολύς, πολύς, πολλή, πολύ, much, many",polu\n,  masculine accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+42,χρόνον,χρόνος,"χρόνος, χρόνος, χρόνου, ὁ, time",xro/non,  masculine accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+43,μάχην,μάχη,"μάχη, μάχη, μάχης, ἡ, battle",ma/xhn,  feminine accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+44,ἔχων,ἔχω,"ἔχω, ἔχω, ἕξω or σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, -, have, hold; be able; (+ adv.) be; (mid.) cling to, be next to (+ gen.)",e)/xwn,"  present active participle masculine vocative singular,   present active participle masculine nominative singular",1,Aesop's Fables,The Lion and the Dolphin
+45,πρὸς,πρός,"πρός, πρός, in the eyes of, in the name of (+ gen); near, in addition to (+ dat); toward (+ acc)",pro\s,"  preposition,   adverb",1,Aesop's Fables,The Lion and the Dolphin
+46,ταῦρον,ταῦρος,"ταῦρος, a bull",tau=ron,  masculine accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+47,ἄγριον,ἄγριος,"ἄγριος, (living in the fields) wild, savage, harsh",a)/grion,"  feminine accusative singular,   neuter nominative singular,  neuter vocative singular,   neuter accusative singular,   masculine accusative singular",1,Aesop's Fables,The Lion and the Dolphin
+48,ἐπεκαλεῖτο,ἐπικαλέω,"ἐπικαλέω, to call upon",e)pekalei=to,  imperfect middle-passive indicative 3rd singular,1,Aesop's Fables,The Lion and the Dolphin
+49,τὸν,ὁ,"ὁ, ὁ, the [definite article]",to\n,  definite article masculine accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+50,δελφῖνα,δελφίς,"δελφίς, the dolphin",delfi=na,  masculine accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+51,ἐπὶ,ἐπί,"ἐπί, ἐπί, on (+ gen); on, pertaining to, on condition that (+ dat); onto, over, against, for (purpose) (+ acc)",e)pi\,"  preposition,   adverb (e.g., tmesis)",1,Aesop's Fables,The Lion and the Dolphin
+52,βοήθειαν.,βοήθεια,"βοήθεια, βοήθεια, ἡ, help, rescue operation (noun)",boh/qeian.,  feminine accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+53,Ὡς,ὡς,"ὡς, ὡς, in order that",*(ws,"  conjunction,  adverb,   adverb,  preposition",1,Aesop's Fables,The Lion and the Dolphin
+54,δὲ,δέ,"δέ, δέ, ...on the other hand",de\,  particle,1,Aesop's Fables,The Lion and the Dolphin
+55,ἐκεῖνος,ἐκεῖνος,"ἐκεῖνος, ἐκεῖνος, ἐκείνη, ἐκεῖνο, that",e)kei=nos,  demonstrative pronoun masculine nominative singular,1,Aesop's Fables,The Lion and the Dolphin
+56,καίπερ,καίπερ,"καίπερ, καίπερ, although",kai/per,  adverb,1,Aesop's Fables,The Lion and the Dolphin
+57,βουλόμενος,βούλομαι,"βούλομαι, βούλομαι, βουλήσομαι, ΧΧΧ, ΧΧΧ, βεβούλημαι, ἐβουλήθην, want",boulo/menos,  present middle participle masculine nominative singular,1,Aesop's Fables,The Lion and the Dolphin
+58,ἐκβῆναι,ἐκβαίνω,"ἐκβαίνω, to step out of",e)kbh=nai,  aorist active infinitive,1,Aesop's Fables,The Lion and the Dolphin
+59,τῆς,ὁ,"ὁ, ὁ, the [definite article]",th=s,  definite article feminine genitive singular,1,Aesop's Fables,The Lion and the Dolphin
+60,θαλάσσης,θάλασσα,"θάλασσα, θάλαττα, θαλάττης, sea",qala/sshs,  feminine genitive singular,1,Aesop's Fables,The Lion and the Dolphin
+61,οὐκ,οὐ,"οὐ, οὐ, οὐκ, οὐχ, not",ou)k,  adverb,1,Aesop's Fables,The Lion and the Dolphin
+62,"ἠδύνατο,",δύναμαι,"δύναμαι, δύναμαι, δυνήσομαι, -, -, δεδύνημαι, ἐδυνήθην, be able","h)du/nato,",  imperfect middle indicative 3rd singular,1,Aesop's Fables,The Lion and the Dolphin
+63,ᾐτιᾶτο,αἰτιάομαι,"αἰτιάομαι, αἰτιάομαι, accuse, censure; allege as a cause",h)|tia=to,  imperfect middle indicative 3rd singular,1,Aesop's Fables,The Lion and the Dolphin
+64,αὐτὸν,αὐτός,"αὐτός, αὐτός, αὐτή, αὐτό, same (adj in attributive position); -self, -selves (in predicate position or alone in nom); him, her, it, them (pronoun in gen, dat, acc)",au)to\n,"  personal pronoun masculine accusative singular,   masculine accusative singular",1,Aesop's Fables,The Lion and the Dolphin
+65,ὁ,ὁ,"ὁ, ὁ, the [definite article]",o(,  definite article masculine nominative singular,1,Aesop's Fables,The Lion and the Dolphin
+66,λέων,λέων,"λέων, λέων, lion",le/wn,  masculine nominative singular,1,Aesop's Fables,The Lion and the Dolphin
+67,ὡς,ὡς,"ὡς, ὡς, in order that",w(s,"  conjunction,   adverb,   adverb,   preposition",1,Aesop's Fables,The Lion and the Dolphin
+68,προδότην.,προδίδωμι,"προδίδωμι, προδίδωμι, betray, give up (to an enemy), abandon",prodo/thn., aorist active indicative 3rd dual,1,Aesop's Fables,The Lion and the Dolphin
+69,Ὁ,ὁ,"ὁ, ὁ, the [definite article]",*(o,  definite article masculine nominative singular,1,Aesop's Fables,The Lion and the Dolphin
+70,δὲ,δέ,"δέ, δέ, ...on the other hand",de\,  particle,1,Aesop's Fables,The Lion and the Dolphin
+71,ὑποτυχὼν,ὑποτυγχάνω,"ὑποτυγχάνω, interrupt, reply, answer",u(potuxw\n," aorist active participle masculine nominative singular,  aorist active participle masculine vocative singular",1,Aesop's Fables,The Lion and the Dolphin
+72,εἶπεν·,λέγω,"λέγω, λέγω, ἐρέω or λέξω, εἶπον or ἔλεξα, εἴρηκα, εἴρημαι or λέλεγμαι, ἐλέχθην or ἐρρήθην, say, speak",ei)=pen:,  aorist active indicative 3rd singular,1,Aesop's Fables,The Lion and the Dolphin
+73,"""Ἀλλὰ",ἀλλά,"ἀλλά, ἀλλά, but","""*)alla\",  conjunction,1,Aesop's Fables,The Lion and the Dolphin
+74,μὴ,μή,"μή, μή, not",mh\,"  conjunction,   adverb",1,Aesop's Fables,The Lion and the Dolphin
+75,ἐμὲ,ἐγώ,"ἐγώ, ἐγώ, I",e)me\,  personal pronoun accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+76,"μέμφου,",μέμφομαι,"μέμφομαι, μέμφομαι, blame, criticise, find fault with (verb)","me/mfou,","  present middle imperative 2nd singular,  imperfect middle indicative 2nd singular",1,Aesop's Fables,The Lion and the Dolphin
+77,ἀλλὰ,ἀλλά,"ἀλλά, ἀλλά, but",a)lla\,  conjunction,1,Aesop's Fables,The Lion and the Dolphin
+78,τὴν,ὁ,"ὁ, ὁ, the [definite article]",th\n,  definite article feminine accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+79,"φύσιν,",φύσις,"φύσις, φύσις, φύσεως, ἡ, nature","fu/sin,",  feminine accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+80,ἥτις,ὅστις,"ὅστις, ὅστις, ἥτις, ὅτι, (indefinite relative) whoever, whatever; (indirect interrogative) who?, what?",h(/tis,  relative pronoun feminine nominative singular,1,Aesop's Fables,The Lion and the Dolphin
+81,με,ἐγώ,"ἐγώ, ἐγώ, I",me,  personal pronoun accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+82,θαλάττιον,θαλάσσιος,"θαλάσσιος, of, in, on, from the sea",qala/ttion,"  masculine accusative singular,  feminine accusative singular,  neuter nominative singular,  neuter vocative singular,  neuter accusative singular",1,Aesop's Fables,The Lion and the Dolphin
+83,ποιήσασα,ποιέω,"ποιέω, ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην, make, do",poih/sasa,"  aorist active participle feminine nominative singular,  aorist active participle feminine vocative singular",1,Aesop's Fables,The Lion and the Dolphin
+84,γῆς,γῆ,"γῆ, γῆ, γῆς, ἡ, earth, land",gh=s,  feminine genitive singular,1,Aesop's Fables,The Lion and the Dolphin
+85,οὐκ,οὐ,"οὐ, οὐ, οὐκ, οὐχ, not",ou)k,  adverb,1,Aesop's Fables,The Lion and the Dolphin
+86,ἐᾷ,ἐάω,"ἐάω, ἐάω, permit, allow (+ acc. + inf.); let go, dismiss",e)a=|," present middle-passive subjunctive 2nd singular,  present middle-passive indicative 2nd singular,   present active subjunctive 3rd singular,   present active indicative 3rd singular",1,Aesop's Fables,The Lion and the Dolphin
+87,"ἐπιβαίνειν.""",ἐπιβαίνω,"ἐπιβαίνω, to go upon","e)pibai/nein.""",  present active infinitive,1,Aesop's Fables,The Lion and the Dolphin
+88,Οὕτως,οὕτως,"οὕτως, οὕτω, οὕτως, in this way, so, thus",*ou(/tws,  adverb,1,Aesop's Fables,The Lion and the Dolphin
+89,καὶ,καί,"καί, καί, and, also, even",kai\,"  conjunction,   adverb",1,Aesop's Fables,The Lion and the Dolphin
+90,ἡμᾶς,ἡμεῖς,"ἡμεῖς, ἡμεῖς, we",h(ma=s,  personal pronoun accusative plural (cp ἐγώ),1,Aesop's Fables,The Lion and the Dolphin
+91,δεῖ,δέω,"δέω, to bind, tie, fetter",dei=," present middle-passive indicative 2nd singular,  imperfect active indicative 3rd singular,   present active imperative 2nd singular,  present active indicative 3rd singular",1,Aesop's Fables,The Lion and the Dolphin
+92,φιλίαν,φίλιος,"φίλιος, φίλιος, friendly, friendly to (+ dat.); beloved",fili/an,  feminine accusative singular,1,Aesop's Fables,The Lion and the Dolphin
+93,σπενδομένους,σπένδω,"σπένδω, σπένδω, pour a libation; (mid.) exchange libations, make a truce, make peace",spendome/nous, present middle-passive participle masculine accusative plural,1,Aesop's Fables,The Lion and the Dolphin
+94,τοιούτους,τοιοῦτος,"τοιοῦτος, τοιοῦτος, τοιαύτη, τοιοῦτο / τοιοῦτον, of this/that sort, such (as this)",toiou/tous,  demonstrative pronoun masculine accusative plural,1,Aesop's Fables,The Lion and the Dolphin
+95,ἐπιλέγεσθαι,ἐπιλέγω,"ἐπιλέγω, say in connexion with; to choose; to think over",e)pile/gesqai, present middle-passive infinitive,1,Aesop's Fables,The Lion and the Dolphin
+96,συμμάχους,σύμμαχος,"σύμμαχος, σύμμαχος, συμμάχου, ὁ, ally",summa/xous,"  masculine accusative plural,  feminine accusative plural",1,Aesop's Fables,The Lion and the Dolphin
+97,οἳ,οὗ,"οὗ, (adv.) where",oi(\, personal pronoun dative singular,1,Aesop's Fables,The Lion and the Dolphin
+98,ἐν,ἐν,"ἐν, ἐν, in",e)n,"  preposition,   adverb (NCA)",1,Aesop's Fables,The Lion and the Dolphin
+99,κινδύνοις,κίνδυνος,"κίνδυνος, κίνδῡνος, κινδύνου, ὁ, danger",kindu/nois,  masculine dative plural,1,Aesop's Fables,The Lion and the Dolphin
+100,παρεῖναι,πάρειμι,"πάρειμι, πάρειμι, be by, be present",parei=nai,  present active infinitive,1,Aesop's Fables,The Lion and the Dolphin
+101,ἡμῖν,ἡμεῖς,"ἡμεῖς, ἡμεῖς, we",h(mi=n,  personal pronoun dative plural (cp ἐγώ),1,Aesop's Fables,The Lion and the Dolphin
+102,δύνανται.,δύναμαι,"δύναμαι, δύναμαι, δυνήσομαι, -, -, δεδύνημαι, ἐδυνήθην, be able",du/nantai.,  present middle indicative 3rd plural,1,Aesop's Fables,The Lion and the Dolphin

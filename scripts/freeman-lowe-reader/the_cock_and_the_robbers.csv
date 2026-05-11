@@ -1,0 +1,71 @@
+,word,lemma,english_translation,beta_code,parsing_abbreviation,chapter_number,chapter_name,title
+0,Κλέπται,κλέπτης,"κλέπτης, κλέπτης, κλέπτου, ὁ, thief",*kle/ptai, masculine nominative plural,1,Aesop's Fables,The Cock and the Robbers
+1,εἴς,εἰς,"εἰς, εἰς, into, to, for (purpose)",ei)/s,  preposition,1,Aesop's Fables,The Cock and the Robbers
+2,τινα,τις,"τις, τις, τι, someone, something; anyone, anything; some, any",tina,"  indefinite pronoun common accusative singular,  indefinite pronoun neuter nominative plural,  indefinite pronoun neuter vocative plural,   indefinite pronoun neuter accusative plural",1,Aesop's Fables,The Cock and the Robbers
+3,οἰκίαν,οἰκία,"οἰκία, οἰκίᾱ, οἰκίᾱς, ἡ, house",oi)ki/an,  feminine accusative singular,1,Aesop's Fables,The Cock and the Robbers
+4,εἰσελθόντες,εἰσέρχομαι,"εἰσέρχομαι, εἰσέρχομαι, enter (verb)",ei)selqo/ntes,"  aorist active participle masculine nominative plural,  aorist active participle masculine vocative plural",1,Aesop's Fables,The Cock and the Robbers
+5,οὐδὲν,οὐδείς,"οὐδείς, οὐδείς, οὐδεμία, οὐδέν, no one, nothing",ou)de\n,"  neuter nominative singular,  neuter vocative singular,   neuter accusative singular",1,Aesop's Fables,The Cock and the Robbers
+6,μὲν,μέν,"μέν, μέν, on the one hand..",me\n,  particle,1,Aesop's Fables,The Cock and the Robbers
+7,ἄλλο,ἄλλος,"ἄλλος, ἄλλος, ἄλλη, ἄλλον, another, other",a)/llo,"  neuter nominative singular,  neuter vocative singular,   neuter accusative singular",1,Aesop's Fables,The Cock and the Robbers
+8,"εὗρον,",εὑρίσκω,"εὑρίσκω, εὑρίσκω, εὑρήσω, ηὗρον, ηὕρηκα, ηὕρημαι, ηὑρέθην, find, discover","eu(=ron,"," aorist active imperative 2nd singular,   aorist active indicative 3rd plural,   aorist active indicative 1st singular",1,Aesop's Fables,The Cock and the Robbers
+9,μόνον,μόνος,"μόνος, μόνος, μόνη, μόνον, alone",mo/non,"  masculine accusative singular,   neuter nominative singular,  neuter vocative singular,   neuter accusative singular,   adverb",1,Aesop's Fables,The Cock and the Robbers
+10,δὲ,δέ,"δέ, δέ, ...on the other hand",de\,  particle,1,Aesop's Fables,The Cock and the Robbers
+11,"ἀλεκτρυόνα,",ἀλεκτρυών,"ἀλεκτρυών, a cock","a)lektruo/na,",  masculine accusative singular,1,Aesop's Fables,The Cock and the Robbers
+12,καὶ,καί,"καί, καί, and, also, even",kai\,"  conjunction,   adverb",1,Aesop's Fables,The Cock and the Robbers
+13,τοῦτον,οὗτος,"οὗτος, οὗτος, αὕτη, τοῦτο, this, that",tou=ton,  demonstrative pronoun masculine accusative singular,1,Aesop's Fables,The Cock and the Robbers
+14,λαβόντες,λαμβάνω,"λαμβάνω, λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην, take",labo/ntes,"  aorist active participle masculine nominative plural,  aorist active participle masculine vocative plural",1,Aesop's Fables,The Cock and the Robbers
+15,ἀπηλλαγησαν.,ἀπαλλάσσω,"ἀπαλλάσσω, to set free, release, deliver",a)phllaghsan.,  aorist passive indicative 3rd plural,1,Aesop's Fables,The Cock and the Robbers
+16,Ὁ,ὁ,"ὁ, ὁ, the [definite article]",*(o,  definite article masculine nominative singular,1,Aesop's Fables,The Cock and the Robbers
+17,δὲ,δέ,"δέ, δέ, ...on the other hand",de\,  particle,1,Aesop's Fables,The Cock and the Robbers
+18,μέλλων,μέλλω,"μέλλω, μέλλω, μελλήσω, ἐμέλλησα, ΧΧΧ, ΧΧΧ, ΧΧΧ, be about to, be likely to (+ future infin.); delay",me/llwn,"  present active participle masculine vocative singular,   present active participle masculine nominative singular",1,Aesop's Fables,The Cock and the Robbers
+19,ὑπ',ὑποτίτθιος,"ὑποτίτθιος, under the breast",u(p',"  masculine accusative singular,  feminine accusative singular,  neuter nominative singular,  neuter vocative singular,  neuter accusative singular",1,Aesop's Fables,The Cock and the Robbers
+20,αὐτῶν,αὐτός,"αὐτός, αὐτός, αὐτή, αὐτό, same (adj in attributive position); -self, -selves (in predicate position or alone in nom); him, her, it, them (pronoun in gen, dat, acc)",au)tw=n,"  personal pronoun neuter genitive plural,   personal pronoun feminine genitive plural,   personal pronoun masculine genitive plural,   neuter genitive plural,   masculine genitive plural,   feminine genitive plural",1,Aesop's Fables,The Cock and the Robbers
+21,θύεσθαι,θύω,"θύω, θύω, θύσω, ἔθῡσα, τέθυκα, τέθυμαι, ἐτύθην, sacrifice",qu/esqai,  present middle-passive infinitive,1,Aesop's Fables,The Cock and the Robbers
+22,ἐδέετο,δέω,"δέω, to bind, tie, fetter",e)de/eto, imperfect middle-passive indicative 3rd singular,1,Aesop's Fables,The Cock and the Robbers
+23,ὅπως,ὅπως,"ὅπως, ὅπως, in order that",o(/pws,"  conjunction,   adverb,   adverb",1,Aesop's Fables,The Cock and the Robbers
+24,αὐτὸν,αὐτός,"αὐτός, αὐτός, αὐτή, αὐτό, same (adj in attributive position); -self, -selves (in predicate position or alone in nom); him, her, it, them (pronoun in gen, dat, acc)",au)to\n,"  personal pronoun masculine accusative singular,   masculine accusative singular",1,Aesop's Fables,The Cock and the Robbers
+25,"ἀπολύσωσι,",ἀπολύω,"ἀπολύω, ἀπολύω, acquit, release (verb)","a)polu/swsi,", aorist active subjunctive 3rd plural,1,Aesop's Fables,The Cock and the Robbers
+26,λέγων,λέγω,"λέγω, λέγω, ἐρέω or λέξω, εἶπον or ἔλεξα, εἴρηκα, εἴρημαι or λέλεγμαι, ἐλέχθην or ἐρρήθην, say, speak",le/gwn,"  present active participle masculine vocative singular,   present active participle masculine nominative singular",1,Aesop's Fables,The Cock and the Robbers
+27,χρήσιμον,χρήσιμος,"χρήσιμος, χρήσιμος η ον, useful, profitable (adjective)",xrh/simon,"  masculine accusative singular,   feminine accusative singular,   neuter nominative singular,  neuter vocative singular,   neuter accusative singular",1,Aesop's Fables,The Cock and the Robbers
+28,ἑαυτὸν,ἑαυτοῦ,"ἑαυτοῦ, ἑαυτοῦ, ἑαυτῆς, ἑαυτοῦ, himself, herself, itself",e(auto\n,  reflexive pronoun masculine accusative singular,1,Aesop's Fables,The Cock and the Robbers
+29,τοῖς,ὁ,"ὁ, ὁ, the [definite article]",toi=s,"  definite article masculine dative plural,   definite article neuter dative plural",1,Aesop's Fables,The Cock and the Robbers
+30,ἀνθρώποις,ἄνθρωπος,"ἄνθρωπος, ἄνθρωπος, ἀνθρώπου, ὁ, human",a)nqrw/pois,  common dative plural,1,Aesop's Fables,The Cock and the Robbers
+31,εἶναι,εἰμί,"εἰμί, εἰμί, ἔσομαι, ΧΧΧ, ΧΧΧ, ΧΧΧ, ΧΧΧ, be",ei)=nai,  present active infinitive,1,Aesop's Fables,The Cock and the Robbers
+32,νύκτωρ,νύκτωρ,"νύκτωρ, by night",nu/ktwr,  adverb,1,Aesop's Fables,The Cock and the Robbers
+33,αὐτοὺς,αὐτός,"αὐτός, αὐτός, αὐτή, αὐτό, same (adj in attributive position); -self, -selves (in predicate position or alone in nom); him, her, it, them (pronoun in gen, dat, acc)",au)tou\s,"  personal pronoun masculine accusative plural,   masculine accusative plural",1,Aesop's Fables,The Cock and the Robbers
+34,ἐπὶ,ἐπί,"ἐπί, ἐπί, on (+ gen); on, pertaining to, on condition that (+ dat); onto, over, against, for (purpose) (+ acc)",e)pi\,"  preposition,   adverb (e.g., tmesis)",1,Aesop's Fables,The Cock and the Robbers
+35,τὰ,ὁ,"ὁ, ὁ, the [definite article]",ta\,"  definite article neuter nominative plural,   definite article neuter accusative plural,  definite article feminine nominative dual,  definite article feminine accusative dual",1,Aesop's Fables,The Cock and the Robbers
+36,ἔργα,ἔργον,"ἔργον, ἔργον, ἔργου, τό, work, deed",e)/rga,"  neuter nominative plural,  neuter vocative plural,   neuter accusative plural",1,Aesop's Fables,The Cock and the Robbers
+37,ἐγείροντα.,ἐγείρω,"ἐγείρω, to awaken, wake up, rouse",e)gei/ronta., present middle-passive indicative 3rd plural,1,Aesop's Fables,The Cock and the Robbers
+38,Ὅι,ὁ,"ὁ, ὁ, the [definite article]",*(/oi,  definite article masculine nominative plural,1,Aesop's Fables,The Cock and the Robbers
+39,δὲ,δέ,"δέ, δέ, ...on the other hand",de\,  particle,1,Aesop's Fables,The Cock and the Robbers
+40,ὑποτυχόντες,ὑποτυγχάνω,"ὑποτυγχάνω, interrupt, reply, answer",u(potuxo/ntes," aorist active participle masculine genitive singular,  aorist active participle neuter genitive singular",1,Aesop's Fables,The Cock and the Robbers
+41,ἔφασαν·,φημί,"φημί, φημί, φήσω, ἔφησα, -, -, -, say, assert, affirm",e)/fasan:,"  imperfect active indicative 3rd plural,  aorist active indicative 3rd plural (NCA)",1,Aesop's Fables,The Cock and the Robbers
+42,"""Ἀλλὰ",ἀλλά,"ἀλλά, ἀλλά, but","""*)alla\",  conjunction,1,Aesop's Fables,The Cock and the Robbers
+43,καὶ,καί,"καί, καί, and, also, even",kai\,"  conjunction,   adverb",1,Aesop's Fables,The Cock and the Robbers
+44,διὰ,διά,"διά, διά, through (+ gen); on account of (+ acc)",dia\,"  preposition,   adverb (e.g. tmesis)",1,Aesop's Fables,The Cock and the Robbers
+45,τοῦτό,οὗτος,"οὗτος, οὗτος, αὕτη, τοῦτο, this, that",tou=to/,"  demonstrative pronoun neuter nominative singular,  demonstrative pronoun neuter vocative singular,   demonstrative pronoun neuter accusative singular",1,Aesop's Fables,The Cock and the Robbers
+46,σε,σύ,"σύ, σύ, you (sg.)",se,  personal pronoun accusative singular,1,Aesop's Fables,The Cock and the Robbers
+47,μᾶλλον,μᾶλλον,"μᾶλλον, μᾶλλον, more, rather",ma=llon,  adverb comparative (cp μάλα),1,Aesop's Fables,The Cock and the Robbers
+48,θύομεν·,θύω,"θύω, θύω, θύσω, ἔθῡσα, τέθυκα, τέθυμαι, ἐτύθην, sacrifice",qu/omen:,"  present active indicative 1st plural,  imperfect active indicative 1st plural (NCA)",1,Aesop's Fables,The Cock and the Robbers
+49,ἐκείνους,ἐκεῖνος,"ἐκεῖνος, ἐκεῖνος, ἐκείνη, ἐκεῖνο, that",e)kei/nous,  demonstrative pronoun masculine accusative plural,1,Aesop's Fables,The Cock and the Robbers
+50,γὰρ,γάρ,"γάρ, γάρ, for (explanatory)",ga\r,  particle,1,Aesop's Fables,The Cock and the Robbers
+51,ἐγείρων,ἐγείρω,"ἐγείρω, to awaken, wake up, rouse",e)gei/rwn," present active participle masculine vocative singular,   present active participle masculine nominative singular",1,Aesop's Fables,The Cock and the Robbers
+52,ἡμᾶς,ἡμεῖς,"ἡμεῖς, ἡμεῖς, we",h(ma=s,  personal pronoun accusative plural (cp ἐγώ),1,Aesop's Fables,The Cock and the Robbers
+53,οὐκ,οὐ,"οὐ, οὐ, οὐκ, οὐχ, not",ou)k,  adverb,1,Aesop's Fables,The Cock and the Robbers
+54,ἐᾷς,ἐάω,"ἐάω, ἐάω, permit, allow (+ acc. + inf.); let go, dismiss",e)a=|s,"  present active subjunctive 2nd singular,   present active indicative 2nd singular",1,Aesop's Fables,The Cock and the Robbers
+55,"κλέπτειν.""",κλέπτω,"κλέπτω, κλέπτω, κλέψω, ἔκλεψα, κέκλοφα, κέκλεμμαι, ἐκλάπην, steal","kle/ptein.""",  present active infinitive,1,Aesop's Fables,The Cock and the Robbers
+56,Ὁ,ὁ,"ὁ, ὁ, the [definite article]",*(o,  definite article masculine nominative singular,1,Aesop's Fables,The Cock and the Robbers
+57,λόγος,λόγος,"λόγος, λόγος, λόγου, ὁ, word, speech, story",lo/gos,  masculine nominative singular,1,Aesop's Fables,The Cock and the Robbers
+58,δηλοῖ,δηλόω,"δηλόω, δηλόω, δηλώσω, ἐδήλωσα, δεδήλωκα, δεδήλωμαι, ἐδηλώθην, make clear, show",dhloi=," present middle-passive indicative 2nd singular,  present active optative 3rd singular,   present active indicative 3rd singular,   present active subjunctive 3rd singular",1,Aesop's Fables,The Cock and the Robbers
+59,ὅτι,ὅστις,"ὅστις, ὅστις, ἥτις, ὅτι, (indefinite relative) whoever, whatever; (indirect interrogative) who?, what?",o(/ti,"  relative pronoun neuter nominative singular,   relative pronoun neuter accusative singular,   interrogative pronoun neuter nominative singular,   interrogative pronoun neuter accusative singular",1,Aesop's Fables,The Cock and the Robbers
+60,ταῦτα,οὗτος,"οὗτος, οὗτος, αὕτη, τοῦτο, this, that",tau=ta,"  demonstrative pronoun neuter nominative plural,  demonstrative pronoun neuter vocative plural,   demonstrative pronoun neuter accusative plural",1,Aesop's Fables,The Cock and the Robbers
+61,μάλιστα,μάλιστα,"μάλιστα, μάλιστα (adv.), most",ma/lista,  adverb superlative (cp μάλα),1,Aesop's Fables,The Cock and the Robbers
+62,τοῖς,ὁ,"ὁ, ὁ, the [definite article]",toi=s,"  definite article masculine dative plural,   definite article neuter dative plural",1,Aesop's Fables,The Cock and the Robbers
+63,πονηροῖς,πονηρός,"πονηρός, πονηρός, πονηρά̄, πονηρόν, worthless, evil, base",ponhroi=s,"  masculine dative plural,   neuter dative plural",1,Aesop's Fables,The Cock and the Robbers
+64,ἠναντίωται,ἐναντιόομαι,"ἐναντιόομαι, to set oneself against, oppose, withstand",h)nanti/wtai,  perfect middle indicative 3rd singular,1,Aesop's Fables,The Cock and the Robbers
+65,ἅτινα,ὅστις,"ὅστις, ὅστις, ἥτις, ὅτι, (indefinite relative) whoever, whatever; (indirect interrogative) who?, what?",a(/tina," relative pronoun neuter nominative plural,  relative pronoun neuter accusative plural",1,Aesop's Fables,The Cock and the Robbers
+66,τῶν,ὁ,"ὁ, ὁ, the [definite article]",tw=n,"  definite article feminine genitive plural,   definite article masculine genitive plural,   definite article neuter genitive plural",1,Aesop's Fables,The Cock and the Robbers
+67,χρηστῶν,χρηστός,"χρηστός, χρηστός, useful, serviceable; good, honest, worthy",xrhstw=n," feminine genitive plural,   masculine genitive plural,   neuter genitive plural",1,Aesop's Fables,The Cock and the Robbers
+68,ἐστιν,εἰμί,"εἰμί, εἰμί, ἔσομαι, ΧΧΧ, ΧΧΧ, ΧΧΧ, ΧΧΧ, be",e)stin,  present active indicative 3rd singular,1,Aesop's Fables,The Cock and the Robbers
+69,εὐεργετήματα.,εὐεργέτημα,"εὐεργέτημα, a service done, kindness",eu)ergeth/mata.," neuter nominative plural,  neuter vocative plural,  neuter accusative plural",1,Aesop's Fables,The Cock and the Robbers

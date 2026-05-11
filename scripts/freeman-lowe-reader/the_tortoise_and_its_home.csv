@@ -1,0 +1,56 @@
+,word,lemma,english_translation,beta_code,parsing_abbreviation,chapter_number,chapter_name,title
+0,Ζεὺς,Ζεύς,"Ζεύς, Ζεύς, Διός, ὁ (voc. Ζεῦ), Zeus",*zeu\s,  Proper-name noun masculine nominative singular,1,Aesop's Fables,The Tortoise and its Home
+1,γαμῶν,γαμέω,"γαμέω, γαμέω, (act.) take as wife, marry a woman; (mid.) (of male relative of bride) give in marriage, (of bride) give self in marriage, marry a man",gamw=n," future active participle masculine nominative singular,   present active participle masculine nominative singular,  future active participle masculine vocative singular,  present active participle masculine vocative singular",1,Aesop's Fables,The Tortoise and its Home
+2,πάντα,πᾶς,"πᾶς, πᾶς, πᾶσα, πᾶν, all, every, whole",pa/nta,"  masculine accusative singular,   neuter nominative plural,  neuter vocative plural,   neuter accusative plural",1,Aesop's Fables,The Tortoise and its Home
+3,τὰ,ὁ,"ὁ, ὁ, the [definite article]",ta\,"  definite article neuter nominative plural,   definite article neuter accusative plural,  definite article feminine nominative dual,  definite article feminine accusative dual",1,Aesop's Fables,The Tortoise and its Home
+4,ζῷα,ζῷον,"ζῷον, ζῷον, ζῴου, τό, animal",zw=|a,"  neuter nominative plural,  neuter vocative plural,   neuter accusative plural",1,Aesop's Fables,The Tortoise and its Home
+5,εἱστία.,ἑστιάω,"ἑστιάω, to receive at one’s hearth",ei(sti/a.,  imperfect active indicative 3rd singular,1,Aesop's Fables,The Tortoise and its Home
+6,Μόνης,μόνος,"μόνος, μόνος, μόνη, μόνον, alone",*mo/nhs, feminine nominative singular,1,Aesop's Fables,The Tortoise and its Home
+7,δὲ,δέ,"δέ, δέ, ...on the other hand",de\,  particle,1,Aesop's Fables,The Tortoise and its Home
+8,χελώνης,χελώνη,"χελώνη, a tortoise",xelw/nhs,  feminine genitive singular,1,Aesop's Fables,The Tortoise and its Home
+9,"ὑστερησάσης,",ὑστερέω,"ὑστερέω, to be behind, come late","u(sterhsa/shs,"," aorist active participle masculine genitive plural,  aorist active participle neuter genitive plural,  aorist active imperative 3rd plural",1,Aesop's Fables,The Tortoise and its Home
+10,διαπορῶν,διαπορέω,"διαπορέω, to be quite at a loss",diaporw=n," present active participle masculine nominative singular,  present active participle masculine vocative singular",1,Aesop's Fables,The Tortoise and its Home
+11,τὴν,ὁ,"ὁ, ὁ, the [definite article]",th\n,  definite article feminine accusative singular,1,Aesop's Fables,The Tortoise and its Home
+12,"αἰτίαν,",αἴτιος,"αἴτιος, αἴτιος, αἰτίᾱ, αἴτιον, responsible (for), guilty (of) (+ gen)","ai)ti/an,",  feminine accusative singular,1,Aesop's Fables,The Tortoise and its Home
+13,τῇ,ὁ,"ὁ, ὁ, the [definite article]",th=|,"  definite article feminine dative singular,   adverb (ὁ VIII.1)",1,Aesop's Fables,The Tortoise and its Home
+14,ὑστεραίᾳ,ὑστεραῖος,"ὑστεραῖος, ὑστεραῖος α ον, next day (adjective)",u(sterai/a|,  feminine dative singular,1,Aesop's Fables,The Tortoise and its Home
+15,ἐπυνθάνετο,πυνθάνομαι,"πυνθάνομαι, πυνθάνομαι, πεύσομαι, ἐπυθόμην, ΧΧΧ, πέπυσμαι, ΧΧΧ, inquire, learn by inquiry",e)punqa/neto,  imperfect middle indicative 3rd singular,1,Aesop's Fables,The Tortoise and its Home
+16,αὐτῆς,αὐτός,"αὐτός, αὐτός, αὐτή, αὐτό, same (adj in attributive position); -self, -selves (in predicate position or alone in nom); him, her, it, them (pronoun in gen, dat, acc)",au)th=s,"  personal pronoun feminine genitive singular,   feminine genitive singular",1,Aesop's Fables,The Tortoise and its Home
+17,διὰ,διά,"διά, διά, through (+ gen); on account of (+ acc)",dia\,"  preposition,   adverb (e.g. tmesis)",1,Aesop's Fables,The Tortoise and its Home
+18,τά,ὁ,"ὁ, ὁ, the [definite article]",ta/,"  definite article neuter nominative plural,   definite article neuter accusative plural,  definite article feminine nominative dual,  definite article feminine accusative dual",1,Aesop's Fables,The Tortoise and its Home
+19,μόνη,μόνος,"μόνος, μόνος, μόνη, μόνον, alone",mo/nh,"  feminine nominative singular,  feminine vocative singular",1,Aesop's Fables,The Tortoise and its Home
+20,ἐπὶ,ἐπί,"ἐπί, ἐπί, on (+ gen); on, pertaining to, on condition that (+ dat); onto, over, against, for (purpose) (+ acc)",e)pi\,"  preposition,   adverb (e.g., tmesis)",1,Aesop's Fables,The Tortoise and its Home
+21,τὸ,ὁ,"ὁ, ὁ, the [definite article]",to\,"  definite article neuter nominative singular,   definite article neuter accusative singular",1,Aesop's Fables,The Tortoise and its Home
+22,δεῖπνον,δεῖπνον,"δεῖπνον, δεῖπνον, meal",dei=pnon,"  neuter nominative singular,  neuter vocative singular,   neuter accusative singular",1,Aesop's Fables,The Tortoise and its Home
+23,οὐκ,οὐ,"οὐ, οὐ, οὐκ, οὐχ, not",ou)k,  adverb,1,Aesop's Fables,The Tortoise and its Home
+24,ἦλθε.,ἔρχομαι,"ἔρχομαι, ἔρχομαι, ἐλεύσομαι, ἦλθον, ἐλήλυθα, ΧΧΧ, ΧΧΧ, come, go",h)=lqe.,  aorist active indicative 3rd singular,1,Aesop's Fables,The Tortoise and its Home
+25,Τῆς,ὁ,"ὁ, ὁ, the [definite article]",*th=s,  definite article feminine genitive singular,1,Aesop's Fables,The Tortoise and its Home
+26,δὲ,δέ,"δέ, δέ, ...on the other hand",de\,  particle,1,Aesop's Fables,The Tortoise and its Home
+27,εἰπούσης·,λέγω,"λέγω, λέγω, ἐρέω or λέξω, εἶπον or ἔλεξα, εἴρηκα, εἴρημαι or λέλεγμαι, ἐλέχθην or ἐρρήθην, say, speak",ei)pou/shs:, aorist active participle feminine genitive singular,1,Aesop's Fables,The Tortoise and its Home
+28,Οἶκος,οἶκος,"οἶκος, οἶκος, house, dwelling place; household",*oi)=kos,  masculine nominative singular,1,Aesop's Fables,The Tortoise and its Home
+29,"φίλος,",φίλος,"φίλος, φίλος, φίλου, ὁ, friend","fi/los,",  masculine nominative singular,1,Aesop's Fables,The Tortoise and its Home
+30,οἶκος,οἶκος,"οἶκος, οἶκος, house, dwelling place; household",oi)=kos,  masculine nominative singular,1,Aesop's Fables,The Tortoise and its Home
+31,"ἄριστος,",ἄριστος,"ἄριστος, ἄριστος, best, bravest, excellent","a)/ristos,",  masculine nominative singular superlative,1,Aesop's Fables,The Tortoise and its Home
+32,ἀγανακτήσας,ἀγανακτέω,"ἀγανακτέω, to feel irritation",a)ganakth/sas,"  aorist active participle masculine nominative singular,  aorist active participle masculine vocative singular",1,Aesop's Fables,The Tortoise and its Home
+33,κατ',κατά,"κατά, κατά, down from, under, against (+ gen); according to, throughout (+ acc.)",kat',"  preposition,   adverb",1,Aesop's Fables,The Tortoise and its Home
+34,αὐτῆς,αὐτός,"αὐτός, αὐτός, αὐτή, αὐτό, same (adj in attributive position); -self, -selves (in predicate position or alone in nom); him, her, it, them (pronoun in gen, dat, acc)",au)th=s,"  personal pronoun feminine genitive singular,   feminine genitive singular",1,Aesop's Fables,The Tortoise and its Home
+35,παρεσκεύασεν,παρασκευάζω,"παρασκευάζω, παρασκευάζω, prepare, provide, procure; (mid.) prepare for oneself, make preparations",pareskeu/asen,  aorist active indicative 3rd singular,1,Aesop's Fables,The Tortoise and its Home
+36,αὐτὴν,αὐτός,"αὐτός, αὐτός, αὐτή, αὐτό, same (adj in attributive position); -self, -selves (in predicate position or alone in nom); him, her, it, them (pronoun in gen, dat, acc)",au)th\n,"  personal pronoun feminine accusative singular,   feminine accusative singular",1,Aesop's Fables,The Tortoise and its Home
+37,τὸν,ὁ,"ὁ, ὁ, the [definite article]",to\n,  definite article masculine accusative singular,1,Aesop's Fables,The Tortoise and its Home
+38,οἶκον,οἶκος,"οἶκος, οἶκος, house, dwelling place; household",oi)=kon,  masculine accusative singular,1,Aesop's Fables,The Tortoise and its Home
+39,αὐτὸν,αὐτός,"αὐτός, αὐτός, αὐτή, αὐτό, same (adj in attributive position); -self, -selves (in predicate position or alone in nom); him, her, it, them (pronoun in gen, dat, acc)",au)to\n,"  personal pronoun masculine accusative singular,   masculine accusative singular",1,Aesop's Fables,The Tortoise and its Home
+40,βαστάζουσαν,βαστάζω,"βαστάζω, to lift, lift up, raise",basta/zousan," present active participle feminine nominative singular,  present active participle feminine vocative singular",1,Aesop's Fables,The Tortoise and its Home
+41,περιφέρειν.,περιφέρω,"περιφέρω, to carry round",perife/rein.,  present active infinitive,1,Aesop's Fables,The Tortoise and its Home
+42,Οὕτω,οὕτως,"οὕτως, οὕτω, οὕτως, in this way, so, thus",*ou(/tw,  adverb,1,Aesop's Fables,The Tortoise and its Home
+43,πολλοὶ,πολύς,"πολύς, πολύς, πολλή, πολύ, much, many",polloi\,"  masculine nominative plural,  masculine vocative plural",1,Aesop's Fables,The Tortoise and its Home
+44,τῶν,ὁ,"ὁ, ὁ, the [definite article]",tw=n,"  definite article feminine genitive plural,   definite article masculine genitive plural,   definite article neuter genitive plural",1,Aesop's Fables,The Tortoise and its Home
+45,ἀνθρώπων,ἄνθρωπος,"ἄνθρωπος, ἄνθρωπος, ἀνθρώπου, ὁ, human",a)nqrw/pwn,  common genitive plural,1,Aesop's Fables,The Tortoise and its Home
+46,αἱροῦνται,αἱρέω,"αἱρέω, αἱρέω, αἱρήσω, εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην, take, capture; (mid) choose",ai(rou=ntai,  present middle-passive indicative 3rd plural,1,Aesop's Fables,The Tortoise and its Home
+47,μᾶλλον,μᾶλλον,"μᾶλλον, μᾶλλον, more, rather",ma=llon,  adverb comparative (cp μάλα),1,Aesop's Fables,The Tortoise and its Home
+48,λιτῶς,λιτός,"λιτός, smooth, plain",litw=s,  adverb,1,Aesop's Fables,The Tortoise and its Home
+49,οἰκεῖν,οἰκέω,"οἰκέω, οἰκέω, inhabit, settle; manage (a house or a government); dwell, live",oi)kei=n,  present active infinitive,1,Aesop's Fables,The Tortoise and its Home
+50,ἢ,ἤ,"ἤ, ἤ, or; than (12)",h)\,  conjunction,1,Aesop's Fables,The Tortoise and its Home
+51,παρ',παρά,"παρά, παρά, from (the side of) (+ gen); at (the side of), at the house of (+ dat); to (the side of), beside, contrary to (+ acc)",par',  preposition,1,Aesop's Fables,The Tortoise and its Home
+52,ἄλλοις,ἄλλος,"ἄλλος, ἄλλος, ἄλλη, ἄλλον, another, other",a)/llois,"  neuter dative plural,   masculine dative plural",1,Aesop's Fables,The Tortoise and its Home
+53,πολυτελῶς,πολυτελής,"πολυτελής, very expensive, very costly",polutelw=s,  adverb,1,Aesop's Fables,The Tortoise and its Home
+54,διαιτᾶσθαι.,διαιτάω,"διαιτάω, act. to treat; to arbitrate; mid. to live (a certain way)",diaita=sqai.,  present middle-passive infinitive,1,Aesop's Fables,The Tortoise and its Home
