@@ -10,11 +10,11 @@ import {
 
 type InteractiveTextProps = {
   words: string[];
-  wordData: WordData[];
+  wordMeanings: string[];
 };
 
 export default function InteractiveText({
-  words, wordData
+  words, wordMeanings
 }: InteractiveTextProps) {
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
 
@@ -23,16 +23,6 @@ export default function InteractiveText({
   >({});
 
   const { width: screenWidth } = useWindowDimensions();
-
-  const [wordMeaning, setWordMeaning] = useState<string>("");
-
-  useEffect(() => {
-    if(selectedIndex !== null){
-      setWordMeaning(
-        fetchWordMeaning(words[selectedIndex], selectedIndex, wordData)
-      );
-    }
-  }, [selectedIndex])
 
   const POPUP_WIDTH = 260;
   const SCREEN_PADDING = 12;
@@ -111,7 +101,7 @@ export default function InteractiveText({
                 "
               >
                 <Text className="text-sm leading-5 text-white break-all">
-                  {wordMeaning}
+                  {word}: {wordMeanings[selectedIndex]}
                 </Text>
 
                 {/* Arrow */}

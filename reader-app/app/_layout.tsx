@@ -11,6 +11,10 @@ export default function RootLayout() {
           name="(reader)"
           options={{headerShown: false}}
         />
+        <Stack.Screen 
+          name="texts/[text]"
+          options={{headerShown: false}}
+        />
       </Stack>
     </>
   );

@@ -8,7 +8,7 @@ function fetchWordMeaning(word: string, pos: number, wordData: WordData[]): stri
                                    .join(",");
     let parse = wordData[pos].parsing_abbreviation;
     let lemma = wordData[pos].lemma;
-    let wordMeaning = `${word} [${parse} of ${lemma}] ${translation}`;
+    let wordMeaning = `[${parse} of ${lemma}] ${translation}`;
     return wordMeaning;
 }
 
